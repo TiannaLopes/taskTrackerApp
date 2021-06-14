@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Grocery Shopping",
+      "day": "Feb 5th at 10:00am",
+      "reminder": false
+    },
+    {
+      "text": "Pay bills",
+      "day": "Firday",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Move out of apartment ",
+      "day": "end of month",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
